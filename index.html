@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+    <head>
+        <title>LGS Together &middot; XML</title>
+
+        <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="style.css" rel="stylesheet">
+        <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+        <script src='jquery-2.0.3.min.js'></script>
+        <script src='/socket.io/socket.io.js'></script>
+    </head>
+    <body>
+        <div class="container">
+
+            <div class="editor-pad">
+                <div class="top row-fluid">
+                    <div class="editor-title span8">
+                        <h2 class="form-signin-heading">LGS Together &middot; XML Editor</h2>
+                        <div class="quickinfo"></div>
+                    </div>
+                    <div class="controls span4">
+                        <br/>
+                        <button class="btn btn-large btn-primary btnsave" type="submit">Save</button>
+                        <br/>
+                        <button class="btn btn-medium btnexpandall" type="submit" style="margin-top: 12px;" data-alttext="Collapse All">Expand All</button>
+                        <button class="btn btn-medium btnaddjourney" type="submit" style="margin-top: 12px;">Add Journey</button>
+                    </div>
+                </div>
+                
+                <div class="ticketholder received">
+                    <!--Journeys Here-->
+                </div>
+                
+            </div>
+        </div> <!-- /container -->
+
+        <div id="savedmodal" class="modal hide">  
+            <div class="modal-header">  
+                <h2>Saved!</h2>  
+            </div>      
+            <div class="modal-body">  
+                <p>Your changes have been saved.</p>  
+            </div>  
+        </div>
+
+        <div id="destroystory" class="modal hide">  
+            <div class="modal-header">  
+                <h2>WARNING</h2>  
+            </div>      
+            <div class="modal-body">  
+                <p>You'll deep-six that entry.</p>
+                <div style="text-align: right;">
+                    <button class="btn btn-medium btn-info mercybtn" type="submit">Cancel</button>
+                    &nbsp;
+                    <button class="btn btn-large btn-danger killbtn" type="submit">YA'KNOW</button>
+                </div>
+            </div>  
+        </div>  
+
+        <div class="tickettemplate hidden">
+            <div class="ticket rounded-corners collapsed">
+                <div class="ticketpreview">
+                    <div class="row-fluid">
+                        <div class="first span2">
+                            <img src="" />
+                        </div>
+                        <div class="second span5">
+                            
+                        </div>
+                        <div class="third span5">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="ticketcontent">
+                    <div class="nombre">0</div>
+                    <div class="btn btnhide topcollapsebtn" type="submit">Hide</div>
+                    <div class="images row-fluid">
+                        <div class="thumb span6">
+                            Thumbnail
+                            <br/>
+                            <img src="" width="143" height="130" />
+                        </div>
+                        <div class="enlarged span6">
+                            Enlarged
+                            <br/>
+                            <img src="" width="286" height="260" />
+                        </div>
+                    </div>
+                    <div class="imageslocations row-fluid">
+                        <div class="thumb span6">
+                            <input type="text" class="input-block-level" placeholder="Thumbnail Filename">
+                        </div>
+                        <div class="enlarged span6">
+                            <input type="text" class="input-block-level" placeholder="Enlarged Filename">
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <textarea type="text" class="story input-block-level" placeholder="Story" style="resize: none;"></textarea>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span6">
+                            <input type="text" class="speakersname input-block-level" placeholder="Name">
+                        </div>
+                        <div class="span6">
+                            <input type="text" class="speakerslocation input-block-level" placeholder="Location">
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span5 dates">
+                            <div class="created"></div>
+                            <div class="modified"></div>
+                        </div>
+                        <div class="span7">
+                            <div class="row-fluid options">
+                                <div class="span4">
+                                </div>
+                                <div class="span4">
+                                    <input type="checkbox" class="notexpandable checkbox">&nbsp;&nbsp;not expandable
+                                </div>
+                                <div class="span4">
+                                    <input type="checkbox" class="isdisabled checkbox">&nbsp;&nbsp;disabled
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span4" style="text-align: left; margin-top: 20px;">
+                            <button class="btn btn-small btn-danger btndiscard" type="submit" data-warningtext="Are you sure?">Discard Journey</button>
+                        </div>
+                        <div class="span4" style="text-align: center; margin-top: 20px;">
+                            <button class="btn btn-small btnhide btn-warning" type="submit">Hide</button>
+                        </div>
+                        <div class="span4" style="text-align: right; margin-top: 20px;">
+                            <button class="btn btn-small btn-primary btnsave" type="submit">Save</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--bootstrap javascripts -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="/bootstrap/js/bootstrap.min.js"></script>
+    </body>
+</html>
+
+<script src='client.js'></script>

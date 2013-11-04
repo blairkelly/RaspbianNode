@@ -1,0 +1,143 @@
+body {
+  background-color: #ddd;
+  padding-top: 40px; 
+  padding-bottom: 40px;
+}
+
+.top .controls {text-align: right;}
+
+.rounded-corners {
+   -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+          box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.ticket {padding: 10px; background: #ffffff; border: 1px solid #3fa8e9; margin-bottom: 20px; position: relative;}
+.ticket.collapsed {cursor: pointer;}
+.ticket.collapsed:hover {background: #eefdfe;}
+.ticket .ticketpreview {display: none;}
+.ticket .ticketpreview .row-fluid>div {min-height: 0px;}
+.ticket .ticketpreview .first>img {max-height: 78px;}
+.ticket .ticketpreview .second {padding-top: 28px;}
+.ticket .ticketpreview .third {padding-top: 28px;}
+.ticket.collapsed .ticketcontent {display: none;}
+.ticket.collapsed .ticketpreview {display: block;}
+.ticket .images img {border: 1px solid #e6e6e6; padding: 3px; background: #fff;}
+.ticket .images {margin-bottom: 15px;}
+.ticket .images .thumb {text-align: right;}
+.ticket .images .thumb img {max-height: 130px;}
+.ticket .images .enlarged img {max-height: 260px;}
+.ticket .dates {color: #666;}
+.ticket .options input.checkbox {display: inline-block; margin: 0 0 0 0; padding: 0 0 0 0;}
+.ticket .options {}
+
+.ticket .nombre {position: absolute; left: 5px; top: 12px; color: #DEDEDE; font-size: 42px; display: none;}
+
+.ticket .btn.btnhide {background: #3fa8e9; }
+.ticket .btn.btnhide.topcollapsebtn {
+  position: absolute; 
+  border-radius: 0; 
+  border: none; 
+  box-shadow: none; 
+  text-shadow: none; 
+  top: 0; 
+  right: 0; 
+  color: #fff;
+  -webkit-border-bottom-left-radius: 5px;
+     -moz-border-bottom-left-radius: 5px;
+          border-bottom-left-radius: 5px;
+}
+
+.input-block-level {}
+
+.quickinfo {color: #678;}
+.quickinfo span {color: #345abc;}
+
+@media only screen and (min-width : 1137px) {
+  .editor-pad {
+    max-width: 800px;
+    padding: 19px 29px 29px;
+    margin: 0 auto 20px;
+    background-color: #fefefe;
+    border: 1px solid #e5e5e5;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+       -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+            box-shadow: 0 1px 2px rgba(0,0,0,.05);
+  }
+
+  .editor-pad .form-signin-heading,
+  .editor-pad .checkbox {
+    margin-bottom: 10px;
+  }
+  .editor-pad input[type="text"],
+  .editor-pad input[type="password"] {
+    font-size: 16px;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 7px 9px;
+  }
+
+  .tickettemplate {
+    max-width: 800px;
+    padding: 19px 29px 19px 29px;
+    margin: 0 auto;
+    margin-top: 25px;
+    background: #fff;
+  }
+
+  .ticketholder {
+    min-height: 25px;
+    margin-top: 30px;
+    margin-bottom: 12px;
+    opacity: 1;
+    -webkit-transition: opacity .432s ease-in-out;
+  }
+}
+@media only screen and (max-width : 1136px) {
+  body {background: #fff;}
+
+  .editor-pad {
+    padding: 0;
+    background-color: #fff;
+  }
+  .editor-pad .form-signin-heading,
+  .editor-pad .checkbox {
+    margin-bottom: 1em;
+  }
+  .editor-title h2 {font-size: 4em; line-height: 100%;}
+
+
+  .editor-pad input[type="text"],
+  .editor-pad input[type="password"] {
+    font-size: 16px;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 7px 9px;
+  }
+
+  .tickettemplate {
+    max-width: 800px;
+    padding: 19px 29px 19px 29px;
+    margin: 0 auto;
+    margin-top: 25px;
+    background: #fff;
+  }
+
+  .ticketholder {
+    min-height: 25px;
+    margin-top: 30px;
+    margin-bottom: 12px;
+    opacity: 1;
+    -webkit-transition: opacity .432s ease-in-out;
+  }
+
+  .ticket .images .thumb {text-align: left;}
+  .top .controls {text-align: center;}
+
+}

@@ -1,0 +1,557 @@
+<alldata>
+
+        <template>
+                <journey>
+                        <images>
+                                <thumbnail>smiling-man-thumbnail.jpg</thumbnail>
+                                <enlarged>smiling-man-enlarged.jpg</enlarged>
+                        </images>
+                        <story>This is a great story of great hope. And getting one's fingers crushed. That really did happen.</story>
+                        <details>
+                                <name>Fabien Marronaud</name>
+                                <location>Limoges, France</location>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-08-26T19:16:59.926Z</modified>
+                        <created>2013-08-26T19:15:39.919Z</created>
+                        <uid>9b0965a1-f0fc-4a98-bd87-f0d77c18109f</uid>
+                </journey>
+        </template>
+
+        <journeys><journey>
+                        <images>
+                                <thumbnail>quote33.png</thumbnail>
+                                <enlarged>quote33.png</enlarged>
+                        </images>
+                        <story>&lt;i&gt;“The world was never meant for one as beautiful as you.”&lt;/i&gt;&lt;br&gt;&amp;mdash;Don McLean from the song “Vincent”</story>
+                        <details>
+                                <name>Parent of a young son with LGS</name>
+                                <location>Nowhere</location>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-11-04T00:12:03.359Z</modified>
+                        <created>2013-10-18T17:45:11.547Z</created>
+                        <uid>e320b01b-10da-428c-a43e-8c70029bbc64</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote32.png</thumbnail>
+                                <enlarged>quote32.png</enlarged>
+                        </images>
+                        <story>Over time I have found that I know my son the best; above all doctors, therapists and other family members.  When it comes to his care, I trusted my gut to find a doctor (HCP team) who could diagnose my son and help him.</story>
+                        <details>
+                                <name>Mother of son with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-28T17:37:40.351Z</modified>
+                        <created>2013-10-18T17:44:43.871Z</created>
+                        <uid>0b6336e6-0658-45dc-91e2-67407af6e2b2</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote31.png</thumbnail>
+                                <enlarged>quote31.png</enlarged>
+                        </images>
+                        <story>If the journey is uphill, you’re probably on the right path.</story>
+                        <details>
+                                <name>Sister of adult brother with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T17:38:15.745Z</modified>
+                        <created>2013-10-18T14:16:35.061Z</created>
+                        <uid>433bb9c4-5937-43f4-af32-d546b2b0edd9</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote30.png</thumbnail>
+                                <enlarged>quote30.png</enlarged>
+                        </images>
+                        <story>My first training race was “The Spartan Race” at Citifield. It was not easy; but every time I wanted to slow down, I thought of my inspiration, Michael – and he kept me going!</story>
+                        <details>
+                                <name>Sister of adult brother with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:44:16.631Z</modified>
+                        <created>2013-10-18T14:15:38.373Z</created>
+                        <uid>c6a5026f-6734-4aad-842a-0f477528a5d9</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote29.png</thumbnail>
+                                <enlarged>quote29.png</enlarged>
+                        </images>
+                        <story>My fondest memory is when my son awoke from surgery.  Unsure if he would talk, he looked at me and said “Kobe 24” not Mommy. He was asking about his favorite player, but I was just relieved he spoke.</story>
+                        <details>
+                                <name>Mother of a son with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:44:00.865Z</modified>
+                        <created>2013-10-18T14:14:16.406Z</created>
+                        <uid>30c3882b-3d34-4116-b052-1f5b0766140d</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote28.png</thumbnail>
+                                <enlarged>quote28.png</enlarged>
+                        </images>
+                        <story>I make time to find success based not on my child’s abilities, but on my own. Thus fulfilled, I can fully embrace being her mom, inspired by her determination and strengthened by her courage.</story>
+                        <details>
+                                <name>Mother of young daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-11-01T19:43:00.996Z</modified>
+                        <created>2013-10-08T19:16:24.313Z</created>
+                        <uid>fa4d666c-257c-4dea-a859-d7758dcf3f9d</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote26.png</thumbnail>
+                                <enlarged>quote26.png</enlarged>
+                        </images>
+                        <story>I was told that Justin would not be able to sit, walk, or communicate. We were basically told to give up hope. After years of therapy, his numerous Special Olympic medals are evidence to his successes.</story>
+                        <details>
+                                <name>Parent of an adult son with LGSs</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-11-03T20:06:01.494Z</modified>
+                        <created>2013-10-08T19:16:11.656Z</created>
+                        <uid>bf1403f0-9cf3-4be4-babe-a43534ca9246</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote25.png</thumbnail>
+                                <enlarged>quote25.png</enlarged>
+                        </images>
+                        <story>As a mom to a 14-year-old son with significant medical needs, I am often asked, 'What is your goal for Andrew?' 
+It is quite simple— that he lives with minimal discomfort and with maximum dignity. </story>
+                        <details>
+                                <name>Mother of son with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:42:15.337Z</modified>
+                        <created>2013-10-08T19:15:52.692Z</created>
+                        <uid>a9978afe-970b-4052-8f6c-73821b59f0cb</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote24.png</thumbnail>
+                                <enlarged>quote24.png</enlarged>
+                        </images>
+                        <story>At first it's unbelievable, unacceptable, it angers you. Slowly you embrace it, you fight the battle. You become educated and involved. It takes patience, love and compassion to care for them.</story>
+                        <details>
+                                <name>Mother of a child with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:41:33.333Z</modified>
+                        <created>2013-10-08T19:15:39.855Z</created>
+                        <uid>9646894a-0c40-4bd2-8b3c-665786e79b7f</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote23.png</thumbnail>
+                                <enlarged>quote23.png</enlarged>
+                        </images>
+                        <story>I find strength in my son's sweet smile.  His smile gives me strength and helps me make it through the challenging times. I just want to do everything to keep my sweet boy smiling.</story>
+                        <details>
+                                <name>Mom of son with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-28T17:32:38.627Z</modified>
+                        <created>2013-10-08T19:15:27.605Z</created>
+                        <uid>99b3bbc3-a6b0-4faa-9d86-19b1237fc027</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote22.png</thumbnail>
+                                <enlarged>quote22.png</enlarged>
+                        </images>
+                        <story>My daughter Micaela is my strength because she is so detached from the world.</story>
+                        <details>
+                                <name>Parent of adult daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:40:50.302Z</modified>
+                        <created>2013-10-08T19:15:13.780Z</created>
+                        <uid>487525f7-392e-42e0-8d71-a4bc1f5e458a</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote21.png</thumbnail>
+                                <enlarged>quote21.png</enlarged>
+                        </images>
+                        <story>My husband, Mark and I agreed to approach all seizures with calmness in our voices. He is my strength for all of the falls Micaela has had that required stitches, and were bloody messes. </story>
+                        <details>
+                                <name>Mother of adult daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:40:29.594Z</modified>
+                        <created>2013-10-08T19:14:59.731Z</created>
+                        <uid>8c705ec1-2b6e-4f26-a6d5-7d1f20dfc9b0</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote20.png</thumbnail>
+                                <enlarged>quote20.png</enlarged>
+                        </images>
+                        <story>&lt;b&gt;My instinct:&lt;/b&gt; Stay calm, use soft words, take control of chaos. 
+&lt;b&gt;My natural instinct:&lt;/b&gt; Legs turn to &lt;i&gt;Jello&lt;/i&gt; after the seizure. 
+&lt;b&gt;Joy that filled my heart:&lt;/b&gt; I learned that she could hear me, but could not speak.</story>
+                        <details>
+                                <name>Mother of daughter with LGS</name>
+                                <location>Ark</location>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-11-04T00:13:00.226Z</modified>
+                        <created>2013-10-08T19:06:26.323Z</created>
+                        <uid>9c99d4ad-8e89-4a0f-91d4-a11eb162612a</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote19.png</thumbnail>
+                                <enlarged>quote19.png</enlarged>
+                        </images>
+                        <story>&lt;i&gt;At any given moment you have the power to say this is not how the story is going to end.&lt;/i&gt; —Unknown</story>
+                        <details>
+                                <name>Mother of daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:31:00.740Z</modified>
+                        <created>2013-10-08T19:06:25.299Z</created>
+                        <uid>d4467012-4264-4dd3-9d7e-3376b136db2b</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote18.png</thumbnail>
+                                <enlarged>quote18.png</enlarged>
+                        </images>
+                        <story>My source of strength is always my family. They are my &lt;i&gt;“go-to people”&lt;/i&gt;. We were always taught, &lt;i&gt;“Winners never quit, and quitters never win.”&lt;/i&gt; Above all, fight for what you believe is right.</story>
+                        <details>
+                                <name>Mother of daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:30:13.475Z</modified>
+                        <created>2013-10-08T19:06:24.515Z</created>
+                        <uid>0403d913-9116-4cb7-9a4f-33c52f4a5be7</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote17.png</thumbnail>
+                                <enlarged>quote17.png</enlarged>
+                        </images>
+                        <story>&lt;i&gt;“The greatest accomplishment is not in never falling, but in rising again after you fall.”&lt;/i&gt; &lt;br/&gt;—Vince Lombardi</story>
+                        <details>
+                                <name>Parent of daughter with LGS</name>
+                                <location>Hi!</location>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-11-04T00:14:51.243Z</modified>
+                        <created>2013-10-08T19:06:03.904Z</created>
+                        <uid>c2d2e389-e07a-464d-adb3-0e124b879ff7</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote16.png</thumbnail>
+                                <enlarged>quote16.png</enlarged>
+                        </images>
+                        <story>&lt;i&gt;“We can’t help everyone, but everyone can help someone.”&lt;/i&gt; &lt;br/&gt;—President Ronald Reagan</story>
+                        <details>
+                                <name>Mother of daughter with LGSs</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-11-03T20:05:34.955Z</modified>
+                        <created>2013-10-08T19:05:49.159Z</created>
+                        <uid>3eced9b6-a18e-46e1-9087-79658376dd03</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote15.png</thumbnail>
+                                <enlarged>quote15.png</enlarged>
+                        </images>
+                        <story>&lt;i&gt;“Life isn’t about waiting for the storm to pass. It’s about learning to dance in the rain.”&lt;/i&gt; &lt;br/&gt;—Vivian Greene (author)</story>
+                        <details>
+                                <name>Mother of a daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-28T17:35:20.665Z</modified>
+                        <created>2013-10-08T19:05:36.568Z</created>
+                        <uid>49ee0541-9f22-4ca9-a469-51031f2157f4</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote14.png</thumbnail>
+                                <enlarged>quote14.png</enlarged>
+                        </images>
+                        <story>At the end of the day we have made peace. We have a child with special needs who is delayed, doesn’t walk or talk. We don’t know what the future holds, all we can do is trust in God, take it day by day.</story>
+                        <details>
+                                <name>Mother of a daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:25:45.560Z</modified>
+                        <created>2013-10-08T19:05:16.119Z</created>
+                        <uid>29302019-a55c-44a0-915d-34acf751dc1b</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote12.png</thumbnail>
+                                <enlarged>quote12.png</enlarged>
+                        </images>
+                        <story>At the time, I wanted to shield my family, and do it all myself; but I realized later that their participation was helpful to them as well.</story>
+                        <details>
+                                <name>Parent of son with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:24:51.287Z</modified>
+                        <created>2013-10-08T19:04:50.013Z</created>
+                        <uid>d6ae2e5a-0a31-4813-9e2e-7dc02f7812dc</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote11.png</thumbnail>
+                                <enlarged>quote11.png</enlarged>
+                        </images>
+                        <story>His neurologist said something that I’ll always remember him for:  “When a mom says to me &lt;i&gt;‘I know in my heart’&lt;/i&gt; I listen to her.”</story>
+                        <details>
+                                <name>Mother of a son with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:24:12.002Z</modified>
+                        <created>2013-10-08T19:04:34.501Z</created>
+                        <uid>bd158708-950b-4b2e-a959-7abaf18ff5d6</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote10.png</thumbnail>
+                                <enlarged>quote10.png</enlarged>
+                        </images>
+                        <story>As parents, we are perhaps the most important part of our child’s team– for we are their strongest advocate; and, in most cases, their voice.</story>
+                        <details>
+                                <name>Parents of 3 children, one with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:23:38.589Z</modified>
+                        <created>2013-10-08T19:04:19.349Z</created>
+                        <uid>aef01d73-9dd1-417f-80e3-f6a579fef0ef</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote9.png</thumbnail>
+                                <enlarged>quote9.png</enlarged>
+                        </images>
+                        <story>We held hands and prayed. Just by saying the words to her, and hearing them aloud, helped me to conquer my fear of the future.</story>
+                        <details>
+                                <name>Mother of teen daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:23:15.278Z</modified>
+                        <created>2013-10-08T19:03:59.118Z</created>
+                        <uid>cac54d99-a4c3-48fa-91d3-07782ab002cb</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote6.png</thumbnail>
+                                <enlarged>quote6.png</enlarged>
+                        </images>
+                        <story>My father told me, &lt;i&gt;“You have to know the rules in order to play the game.”&lt;/i&gt;</story>
+                        <details>
+                                <name>Mother of adult daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:21:59.386Z</modified>
+                        <created>2013-10-08T19:02:47.440Z</created>
+                        <uid>1bb69aee-0ced-4c03-9d52-e3b7c657f4d9</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote5.png</thumbnail>
+                                <enlarged>quote5.png</enlarged>
+                        </images>
+                        <story>Epilepsy does not take a day off.</story>
+                        <details>
+                                <name>Mother of adult daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:21:21.335Z</modified>
+                        <created>2013-10-08T19:02:37.403Z</created>
+                        <uid>deb4bf46-5fbc-434d-8dcc-40d0a36d67d2</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote4.png</thumbnail>
+                                <enlarged>quote4.png</enlarged>
+                        </images>
+                        <story>It was a hard night, and when the seizures subsided, she smiled the most beautiful, peaceful, serene smile. That smile continues to follow every episode.</story>
+                        <details>
+                                <name>Mother of adult daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:20:58.366Z</modified>
+                        <created>2013-10-08T19:01:54.326Z</created>
+                        <uid>1ad884b5-efba-413e-ac4d-bf58b26747ee</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote2.png</thumbnail>
+                                <enlarged>quote2.png</enlarged>
+                        </images>
+                        <story>I’ve researched and started to ask questions. After many years of trial and error, I now have trained caring people who spend time with Meagan, so that I can have the time to renew my strength.</story>
+                        <details>
+                                <name>Mother of an adult daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:20:21.711Z</modified>
+                        <created>2013-10-08T19:01:07.368Z</created>
+                        <uid>ebd8091c-4612-432e-89f8-4b1d6cd13491</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>quote1.png</thumbnail>
+                                <enlarged>quote1.png</enlarged>
+                        </images>
+                        <story>My pastor’s wife told me she takes “mini vacations.” An hour on the back porch, a cup of coffee with a friend, or a movie date with her husband. I took this revelation and applied it to my life.</story>
+                        <details>
+                                <name>Mother of adult daughter with LGS</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-10-18T14:20:05.926Z</modified>
+                        <created>2013-10-08T18:59:48.234Z</created>
+                        <uid>0c034f49-c749-41f3-836a-a4955c7d7374</uid>
+                </journey><journey>
+                        <images>
+                                <thumbnail>little_rock_star.jpg</thumbnail>
+                                <enlarged>little_rock_star.jpg</enlarged>
+                        </images>
+                        <story>When my son was diagnosed with LGS, I was told of the grim prognosis. I decided right then to not accept this, never give up, and to believe in miracles! </story>
+                        <details>
+                                <name>Mother of a son with LGS 9</name>
+                                <location/>
+                        </details>
+                        <options>
+                                <repeatable>false</repeatable>
+                                <notexpandable>false</notexpandable>
+                                <disabled>false</disabled>
+                        </options>
+                        <modified>2013-11-03T20:15:36.203Z</modified>
+                        <created>2013-09-19T21:43:38.434Z</created>
+                        <uid>8c12b60c-f598-49f4-ba33-adf1048dbb65</uid>
+                </journey>
+                
+                
+                
+                
+        </journeys>
+
+</alldata>
