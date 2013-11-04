@@ -1,6 +1,6 @@
 var config = {}
 
-config.serverport = 8080;
+config.serverport = 3002;
 
 //config.xmlfile = "c://inetpub//wwwroot//lundbeck-lgstogether//Web//Content//xml//mosaic.xml";
 config.xmlfile = "the.xml";
