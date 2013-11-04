@@ -3,6 +3,7 @@ var thefile = config.xmlfile;
 var imagepath = config.imagepath;
 
 var fs = require('fs');
+var app = require('express')();
 var http = require('http');
 
 
