@@ -1,3 +1,5 @@
+var config = require('./config');
+
 var http = require('http');
 
 http.createServer(function(req,resp) {
