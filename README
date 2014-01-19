@@ -1,0 +1,10 @@
+README
+
+
+
+
+/* Serialport install issues? */
+
+Getting Socket.IO to install on mac I kept running into an issue with node-gyp. Had to patch xcode_emulation.py as directed by Bulkan in the following link:
+
+https://github.com/TooTallNate/node-gyp/issues/341
